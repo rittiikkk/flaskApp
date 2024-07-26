@@ -9,10 +9,6 @@ __pycache__/
 venv/
 *.egg-info/
 
-# Flask specific
-instance/
-*.sqlite3
-
 # IDEs and editors
 .vscode/
 .idea/
