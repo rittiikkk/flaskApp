@@ -46,7 +46,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### 5. Set Up Environment Variables
+### 5. Set Up Environment Variables (Optional)
 ##### Create a .env file in the root directory and add the following content:
 #### .env file
 
